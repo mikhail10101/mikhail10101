@@ -1,4 +1,20 @@
-## Hi there 👋
+
+## mikhail10101 🔭
+
+**`University of Washington`**
+**`Computer Science`**
+
+<p>
+  🌱 Found out the fastest way I learn is by doing. 
+</p>
+
+---
+
+📫 <u>m1kky@uw.edu</u>
+
+
+
+
 
 <!--
 **mikhail10101/mikhail10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
