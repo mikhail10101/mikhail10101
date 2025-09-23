@@ -5,7 +5,7 @@
 **`Computer Science`**
 
 <p>
-  🌱 Found out the fastest way I learn is by doing. 
+  🌱 Keep Coding
 </p>
 
 ---
